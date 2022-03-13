@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106841825000",
+    "project_id": "contactapp-cd77b",
+    "storage_bucket": "contactapp-cd77b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106841825000:android:06db42aafc8c310fb0335d",
+        "android_client_info": {
+          "package_name": "com.example.agam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106841825000-4ip5t4c6lm5rij30iv2kg44q12kjeo94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWtHUw9PAU_3fS1WUoT9XtcB7vvlkIq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106841825000-4ip5t4c6lm5rij30iv2kg44q12kjeo94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
