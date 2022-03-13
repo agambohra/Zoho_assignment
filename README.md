@@ -45,6 +45,7 @@ snapshots of application:-
 
 
 how to install and run:-
+-> install the app form the apk folder 
 
 
 
