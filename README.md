@@ -30,15 +30,22 @@ snapshots of application:-
 
 
 2.login page
+
+
+
 ![login page](https://user-images.githubusercontent.com/85573630/158072178-978266be-d20d-4bb1-b5f2-8ab749976d94.jpeg)
 
 
 3.contact_info page
+
+
+
 ![contact_form page](https://user-images.githubusercontent.com/85573630/158072196-3713df75-d9c6-4f56-a873-c9051b1019f5.jpeg)
 
 
 
-how to install and run:--
+how to install and run:-
+
 
 
 A few resources to get you started if this is your first Flutter project:
