@@ -27,18 +27,15 @@ snapshots of application:-
 1.signup page
 
 ![signup page](https://user-images.githubusercontent.com/85573630/158072191-7155eee4-6178-4d7d-b95b-cd6f96dd59b2.jpeg)
-![]((https://user-images.githubusercontent.com/85573630/158072191-7155eee4-6178-4d7d-b95b-cd6f96dd59b2.jpeg| width=100)
-![]((https://user-images.githubusercontent.com/85573630/158072191-7155eee4-6178-4d7d-b95b-cd6f96dd59b2.jpeg =250x250)
+
 
 2.login page
 ![login page](https://user-images.githubusercontent.com/85573630/158072178-978266be-d20d-4bb1-b5f2-8ab749976d94.jpeg)
-![](https://user-images.githubusercontent.com/85573630/158072178-978266be-d20d-4bb1-b5f2-8ab749976d94.jpeg| width=100)
-![](https://user-images.githubusercontent.com/85573630/158072178-978266be-d20d-4bb1-b5f2-8ab749976d94.jpeg =250x250)
+
 
 3.contact_info page
 ![contact_form page](https://user-images.githubusercontent.com/85573630/158072196-3713df75-d9c6-4f56-a873-c9051b1019f5.jpeg)
-![](https://user-images.githubusercontent.com/85573630/158072196-3713df75-d9c6-4f56-a873-c9051b1019f5.jpeg| width=100)
-![](https://user-images.githubusercontent.com/85573630/158072196-3713df75-d9c6-4f56-a873-c9051b1019f5.jpeg =250x250)
+
 
 
 how to install and run:--
